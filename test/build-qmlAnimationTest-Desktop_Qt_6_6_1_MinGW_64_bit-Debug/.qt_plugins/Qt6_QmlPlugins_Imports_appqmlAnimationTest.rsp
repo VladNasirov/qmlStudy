@@ -1,0 +1,14 @@
+-rootPath
+D:/Programming/Study/qml/test/qmlAnimationTest
+-cmake-output
+-output-file
+D:/Programming/Study/qml/test/build-qmlAnimationTest-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appqmlAnimationTest.cmake
+-importPath
+D:/Programming/Study/qml/test/build-qmlAnimationTest-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/qmlAnimationTest
+-importPath
+D:/Programming/Study/qml/test/build-qmlAnimationTest-Desktop_Qt_6_6_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.6.1/mingw_64/./qml
+-qrcFiles
+D:/Programming/Study/qml/test/build-qmlAnimationTest-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/qmake_qmlAnimationTest.qrc
+D:/Programming/Study/qml/test/build-qmlAnimationTest-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/.rcc/appqmlAnimationTest_raw_qml_0.qrc

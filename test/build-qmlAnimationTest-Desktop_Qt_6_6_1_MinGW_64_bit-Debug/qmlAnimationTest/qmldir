@@ -1,0 +1,5 @@
+module qmlAnimationTest
+typeinfo appqmlAnimationTest.qmltypes
+prefer :/qt/qml/qmlAnimationTest/
+Main 1.0 Main.qml
+

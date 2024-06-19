@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/qmlAnimationTest/">
+    <file alias="Main.qml">D:/Programming/Study/qml/test/qmlAnimationTest/Main.qml</file>
+  </qresource>
+</RCC>
+
